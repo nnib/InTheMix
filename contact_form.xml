@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<contact_form>
+  <contact>
+    <name>a</name>
+    <email>a@gmail.com</email>
+    <phone>0255555555</phone>
+    <message>dsad</message>
+  </contact>
+  <contact>
+    <name>dawid</name>
+    <email>dawid_mariusz@interia.pl</email>
+    <phone>0901532432</phone>
+    <message>dsdsd</message>
+  </contact>
+  <contact>
+    <name>Dawid</name>
+    <email>dawid_mariusz@interia.pl</email>
+    <phone>0873578884</phone>
+    <message>Hello Its me&#xD;
+</message>
+  </contact>
+  <contact>
+    <name>Aneta</name>
+    <email></email>
+    <phone></phone>
+    <message></message>
+  </contact>
+</contact_form>

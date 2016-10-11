@@ -1,0 +1,111 @@
+.name
+{
+    margin: 0;
+    padding: 0;
+}
+.resimg
+{
+	width:75%;
+	border:1px;
+	
+}
+.p
+{
+	text-align:left;
+}
+
+
+
+.food{
+	padding:1px;
+}
+.thelabel
+{
+	background-color: #29a329;
+	border-bottom: 1px solid #fff;
+	border-right: 1px solid #fff;
+	text-align: center;
+	font-family: Trebuchet MS;
+	color: #fff;
+	margin: 0 20px;
+	padding:10px;
+	width: 100%;
+	overflow: hidden;
+	
+}
+li
+{
+font-size: 14px  !important;	
+	
+}
+
+.elements
+{
+	background-color: #ffe5cc;
+	margin: 0 20px;
+	padding: 0 10px 0 10px;
+	width: 100%;
+    overflow: hidden;
+	font-family:Lucida Sans Unicode;
+	font-size: 14px;
+}
+
+
+#one
+{
+	
+	text-align: center;	
+}
+#one2
+{
+	
+	text-align: center;	
+}
+#one3
+{
+	
+	text-align: center;	
+}
+#one4
+{
+	
+	text-align: center;	
+}
+
+#one5
+{
+	
+	text-align: center;	
+}
+
+
+#one6
+{
+	
+	text-align: center;	
+}
+p
+{
+	
+	margin: 0 150px;
+	
+}
+
+.label a
+{
+	color: #fff;
+	text-decoration: none;
+	margin:auto;
+	
+	
+}
+
+.control
+{
+	display: none;
+	float: right;
+	font-family:Helvetica;
+}
+
+
+
